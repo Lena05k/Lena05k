@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### My tech stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,jest,bootstrap,git,figma&theme=light)](https://skillicons.dev)
 
 <!--
