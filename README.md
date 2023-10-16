@@ -12,7 +12,7 @@
 
 **LIPRARY:** ReactJS, NodeJS
 
-**TOOLS:** Idea, GitHup, GitLup, Wepback, ESlint, GitHub, GitHub Actions, GitLub, Git, Sockeit.IO, Figma
+**TOOLS:** Idea, Wepback, ESlint, GitHup, GitHub Actions, GitLup, Git, Sockeit.IO, Figma
 
 **FRAMEWORK:** React Dom, React Router, React Redux, React i18next, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
 
