@@ -25,3 +25,8 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=lena05k&repo=Web-Chateau-App&theme)](https://github.com/Lena05k/Web-Chateau-App)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=lena05k&repo=camera-application&theme)](https://github.com/Lena05k/camera-application)
 
+### CONTACTS
+
+📧 **E-mail**: lena05k@yandex.ru
+
+✈️ **Telegram**: @krupoderova
