@@ -1,21 +1,20 @@
 <h1 align="center">Frontend & React Developer</h1> 
 
-### My tech stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,jest,bootstrap,git,figma&theme=light)](https://skillicons.dev)
-
 ### SKILLS
 
-**LANGUAGE**
-* TS, JS, HTML, CSS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,js,nodejs,redux,jest,bootstrap,html,css,github,githubactions,gitlab,git,figma" />
+  </a>
+</p>
 
-**LIPRARY**
-* ReactJS, NodeJS
+**LANGUAGE:** TS, JS, HTML, CSS
 
-**TOOLS**
-* Idea, GitHup, GitLup, Wepback, ESlint, Git, Sockeit.IO, Figma
+**LIPRARY:** ReactJS, NodeJS
 
-**FRAMEWORK**
-* React Dom, React Router, React Redux, React i18next, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
+**TOOLS:** Idea, GitHup, GitLup, Wepback, ESlint, Git, Sockeit.IO, Figma
+
+**FRAMEWORK:** React Dom, React Router, React Redux, React i18next, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
 
 
 ### PROJECTS
