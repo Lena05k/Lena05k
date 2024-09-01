@@ -16,6 +16,13 @@
 
 **FRAMEWORK:** React Dom, React Router, React Redux, React i18next, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
 
+### BOOKS I'VE READ
+• System Design Interview  
+• The Clean Coder  
+• Clean Code  
+• Clean Architecture  
+• Grokking Algorithms
+
 
 ### PROJECTS
 
