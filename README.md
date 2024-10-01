@@ -12,9 +12,9 @@
 
 **LIPRARY:** ReactJS, NodeJS
 
-**TOOLS:** Idea, Docker, Wepback, ESlint, GitHub, GitHub Actions, GitLab, Git, Sockeit.IO, Figma
+**TOOLS:** Docker, Wepback, GitHub, GitHub Actions, GitLab, Git, Sockeit.IO, Figma, ESlint
 
-**FRAMEWORK:** React Native, React Dom, React Router, React Redux, React i18next, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
+**FRAMEWORK:** React Native, React Dom, React Router, React i18next,Formik,Axios,Redux Toolkit,MUI,Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
 
 ### BOOKS I'VE READ
 
