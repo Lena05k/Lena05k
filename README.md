@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,js,nodejs,redux,jest,bootstrap,html,css,github,githubactions,gitlab,git,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs, react,js,nodejs,redux,jest,bootstrap,html,css,github,githubactions,gitlab,git,figma" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 **TOOLS:** Docker, Wepback, GitHub, GitHub Actions, GitLab, Git, Sockeit.IO, Figma, ESlint
 
-**FRAMEWORK:** React Native, React Dom, React Router, React i18next, Formik, Axios, Redux Toolkit, MUI, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
+**FRAMEWORK:** Next.js, React Native, React Dom, React Router, React i18next, Formik, Axios, Redux Toolkit, MUI, Taliwind CSS, Bootstrap 5, Yup, Jest, Cypress.IO
 
 ### BOOKS I'VE READ
 
