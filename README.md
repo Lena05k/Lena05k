@@ -27,11 +27,11 @@
 
 
 ### PROJECTS
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=yagoza&theme)](https://github.com/Lena05k/yagoza)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=Outlier-Zapper&theme)](https://github.com/Lena05k/Outlier-Zapper)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=frontend-project-12&theme)](https://github.com/Lena05k/frontend-project-12)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=frontend-project-11&theme)](https://github.com/Lena05k/frontend-project-11)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=Web-Chateau-App&theme)](https://github.com/Lena05k/Web-Chateau-App)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Lena05k&repo=yagoza)]((https://github.com/Lena05k/yagoza))
 
 
 ![IMG_1618](https://github.com/user-attachments/assets/8910e1db-6ced-44df-9484-b1103fb238f0)
