@@ -36,4 +36,4 @@
 
 📧 **E-mail**: lena05k@yandex.ru
 
-✈️ **Telegram**: @krupoderova
+✈️ **Telegram**: [@krupoderova](https://t.me/krupoderova)
